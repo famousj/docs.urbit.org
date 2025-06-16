@@ -48,7 +48,7 @@ Fake ships on the same machine can automatically talk to one another. Having cre
 ./urbit -F bus
 ```
 
-Now in the fake ~bus's dojo, try:
+Now in the fake ~zod's dojo, try:
 
 ```
 > |hi ~bus
